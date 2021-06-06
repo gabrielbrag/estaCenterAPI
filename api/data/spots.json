@@ -1,0 +1,16 @@
+{
+  "spots": {
+    "data": [
+      {
+        "id": 1,
+        "isCovered":false,
+        "floors_id":2
+      },
+      {
+        "id": 2,
+        "isCovered":true  ,
+        "floors_id":2
+      }
+    ]
+  }
+}
